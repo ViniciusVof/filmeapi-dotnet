@@ -64,3 +64,13 @@
 /Users/vini/Desktop/Projetos/filmeapi-dotnet/obj/Debug/net7.0/webapi-dotnet.pdb
 /Users/vini/Desktop/Projetos/filmeapi-dotnet/obj/Debug/net7.0/webapi-dotnet.genruntimeconfig.cache
 /Users/vini/Desktop/Projetos/filmeapi-dotnet/obj/Debug/net7.0/ref/webapi-dotnet.dll
+/Users/vini/Desktop/Projetos/filmeapi-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/vini/Desktop/Projetos/filmeapi-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vini/Desktop/Projetos/filmeapi-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vini/Desktop/Projetos/filmeapi-dotnet/bin/Debug/net7.0/MySqlConnector.dll
+/Users/vini/Desktop/Projetos/filmeapi-dotnet/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/vini/Desktop/Projetos/filmeapi-dotnet/bin/Debug/net7.0/Humanizer.dll
+/Users/vini/Desktop/Projetos/filmeapi-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vini/Desktop/Projetos/filmeapi-dotnet/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/vini/Desktop/Projetos/filmeapi-dotnet/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/vini/Desktop/Projetos/filmeapi-dotnet/bin/Debug/net7.0/System.CodeDom.dll
