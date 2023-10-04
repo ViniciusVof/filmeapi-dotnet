@@ -9,6 +9,8 @@ namespace webapi_dotnet.Profiles
         public FilmeProfile()
         {
             CreateMap<CreateFilmeDto, Filme>();
+            CreateMap<UpdateFilmeDto, Filme>();
+            CreateMap<Filme, UpdateFilmeDto>();
         }
     }
 }
