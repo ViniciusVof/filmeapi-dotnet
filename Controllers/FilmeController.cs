@@ -15,9 +15,9 @@ public class FilmeController : ControllerBase
         filmes.Add(filme);
     }
     [HttpGet]
-    public List<Filme> RecuperaFilmes()
+    public IEnumerable<Filme> RecuperaFilmes([FromQuery] int skip = 0, [FromQuery] int take = 50)
     {
-        return filmes;
+        return filmes.Skip(skip).Take(take);
     }
     [HttpGet("{id}")]
     public Filme? RecuperaFilmePorId(int id)

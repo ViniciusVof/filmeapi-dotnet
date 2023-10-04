@@ -469,25 +469,24 @@
     ]
   },
   "packageFolders": {
-    "/Users/viniciusfreitas/.nuget/packages/": {}
+    "/Users/vini/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/viniciusfreitas/Desktop/Estudos/webapi-dotnet/webapi-dotnet.csproj",
+      "projectUniqueName": "/Users/vini/Desktop/Projetos/filmeapi-dotnet/webapi-dotnet.csproj",
       "projectName": "webapi-dotnet",
-      "projectPath": "/Users/viniciusfreitas/Desktop/Estudos/webapi-dotnet/webapi-dotnet.csproj",
-      "packagesPath": "/Users/viniciusfreitas/.nuget/packages/",
-      "outputPath": "/Users/viniciusfreitas/Desktop/Estudos/webapi-dotnet/obj/",
+      "projectPath": "/Users/vini/Desktop/Projetos/filmeapi-dotnet/webapi-dotnet.csproj",
+      "packagesPath": "/Users/vini/.nuget/packages/",
+      "outputPath": "/Users/vini/Desktop/Projetos/filmeapi-dotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/viniciusfreitas/.nuget/NuGet/NuGet.Config"
+        "/Users/vini/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -534,7 +533,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
