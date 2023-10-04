@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>webapi-dotnet</name>
+    </assembly>
+    <members>
+        <member name="M:webapi_dotnet.Controllers.FilmeController.AdicionaFilme(webapi_dotnet.DTOs.CreateFilmeDto)">
+            <summary>
+            Adiciona um filme ao banco de dados
+            </summary>
+            <param name="filmeDto">Objeto com os campos necessários para criação de um filme</param>
+            <returns>IActionResult</returns>
+            <response code="201">Caso inserção seja feita com sucesso</response>
+        </member>
+        <member name="T:webapi_dotnet.Migrations.FilmeMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi_dotnet.Migrations.FilmeMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi_dotnet.Migrations.FilmeMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi_dotnet.Migrations.FilmeMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
