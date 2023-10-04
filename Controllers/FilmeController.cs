@@ -1,6 +1,7 @@
 using AutoMapper;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using webapi_dotnet.Data;
 using webapi_dotnet.DTOs;
 using webapi_dotnet.Models;
@@ -71,6 +72,18 @@ public class FilmeController : ControllerBase
         }
 
         _mapper.Map(filmeParaAtualizar, filme);
+        _context.SaveChanges();
+
+        return NoContent();
+    }
+
+    [HttpDelete("{id}")]
+    public IActionResult DeletaFilme(int id)
+    {
+        var filme = _context.Filmes.FirstOrDefault(filme => filme.Id == id);
+        if (filme == null) return NotFound();
+
+        _context.Filmes.Remove(filme);
         _context.SaveChanges();
 
         return NoContent();
