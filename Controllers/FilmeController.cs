@@ -1,9 +1,8 @@
 using AutoMapper;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using webapi_dotnet.Data;
-using webapi_dotnet.DTOs;
+using webapi_dotnet.Data.DTOs;
 using webapi_dotnet.Models;
 
 namespace webapi_dotnet.Controllers;

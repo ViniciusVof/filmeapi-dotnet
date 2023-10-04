@@ -2,7 +2,7 @@ using AutoMapper;
 using webapi_dotnet.Data;
 using webapi_dotnet.Models;
 using Microsoft.AspNetCore.Mvc;
-using webapi_dotnet.DTOs;
+using webapi_dotnet.Data.DTOs;
 
 namespace webapi_dotnet.Controllers
 {

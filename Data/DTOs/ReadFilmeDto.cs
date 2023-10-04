@@ -1,6 +1,4 @@
-using System.ComponentModel.DataAnnotations;
-
-namespace webapi_dotnet.DTOs
+namespace webapi_dotnet.Data.DTOs
 {
     public class ReadFilmeDto
     {
