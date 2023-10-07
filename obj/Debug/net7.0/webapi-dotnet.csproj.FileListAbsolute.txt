@@ -92,3 +92,5 @@
 /Users/viniciusfreitas/Desktop/Estudos/webapi-dotnet/bin/Debug/net7.0/System.CodeDom.dll
 /Users/viniciusfreitas/Desktop/Estudos/webapi-dotnet/bin/Debug/net7.0/webapi-dotnet.xml
 /Users/viniciusfreitas/Desktop/Estudos/webapi-dotnet/obj/Debug/net7.0/webapi-dotnet.xml
+/Users/viniciusfreitas/Desktop/Estudos/webapi-dotnet/bin/Debug/net7.0/Castle.Core.dll
+/Users/viniciusfreitas/Desktop/Estudos/webapi-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Proxies.dll

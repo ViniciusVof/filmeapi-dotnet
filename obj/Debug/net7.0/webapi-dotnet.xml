@@ -24,5 +24,17 @@
         <member name="M:webapi_dotnet.Migrations.FilmeMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
         </member>
+        <member name="T:webapi_dotnet.Migrations.CinemaEnderecoMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi_dotnet.Migrations.CinemaEnderecoMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi_dotnet.Migrations.CinemaEnderecoMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi_dotnet.Migrations.CinemaEnderecoMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
     </members>
 </doc>
