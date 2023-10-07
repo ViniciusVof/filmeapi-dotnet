@@ -4,7 +4,7 @@
         <name>webapi-dotnet</name>
     </assembly>
     <members>
-        <member name="M:webapi_dotnet.Controllers.FilmeController.AdicionaFilme(webapi_dotnet.DTOs.CreateFilmeDto)">
+        <member name="M:webapi_dotnet.Controllers.FilmeController.AdicionaFilme(webapi_dotnet.Data.DTOs.CreateFilmeDto)">
             <summary>
             Adiciona um filme ao banco de dados
             </summary>
